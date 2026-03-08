@@ -1,10 +1,10 @@
 # 🔗 Project Links
 
 ## 🌐 Live Portfolio
-****
+https://portfolio-ayubb.netlify.app
 
 ## 📁 GitHub Repository
-****
+https://github.com/ayub660/portfolio1
 
 ## 👨‍💻 Developer Profiles
 - **LinkedIn:** 
@@ -12,9 +12,9 @@
 - **Twitter/X:** 
 
 ## 📧 Contact
-- **Email:** mdmobinmiah1998@gmail.com
-- **Phone:** +8801878014535
-- **WhatsApp:** +8801878014535
+- **Email:** md.ayub0070@gmail.com
+- **Phone:** +8801701000467
+
 
 ## 🛠️ Tech Stack
 - **Frontend:** React.js, Tailwind CSS, Framer Motion, GSAP
