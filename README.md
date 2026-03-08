@@ -4,7 +4,7 @@
 
 ## 🌐 Live Portfolio
 
-**[https://mobinmiah.com](https://mobinmiah.com)**
+**[https://portfolio-ayubb.netlify.app](https://portfolio-ayubb.netlify.app)**
 
 ## 🚀 About
 
@@ -81,8 +81,8 @@ Professional portfolio website built with React.js and Vite, featuring modern an
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/mobinmiah/profolio.git
-   cd profolio
+   git clone https://github.com/ayub660/portfolio1.git
+   cd portfolio1
    ```
 
 2. **Install dependencies**
@@ -128,22 +128,8 @@ npm run preview
 ### Update Colors
 - Modify `tailwind.config.js` and `index.html`
 
-## 📧 Contact Form Setup
 
-The contact form uses Formspree:
-1. Form ID: `mlgdaqrk`
-2. Emails sent to: `mdmobinmiah1998@gmail.com`
-3. Update form ID in `src/components/Contact.jsx` if needed
 
-## 🚀 Deployment
-
-### Hostinger (Production)
-**Current live site**: [https://mobinmiah.com](https://mobinmiah.com)
-
-1. Build the project: `npm run build`
-2. Upload `dist` folder contents to your Hostinger hosting
-3. Configure domain settings in Hostinger control panel
-4. Ensure `.htaccess` or server configuration for SPA routing
 
 ### Netlify (Development/Staging)
 1. Build command: `npm run build`
@@ -161,54 +147,5 @@ The contact form uses Formspree:
 - **Tablet**: 641px - 1024px  
 - **Desktop**: 1025px+
 
-## 🎯 Featured Projects
 
-### 1. AssetVerse
-Enterprise asset management platform with role-based access control
-- **Live**: [asset-verse-by-me.netlify.app](https://asset-verse-by-me.netlify.app)
-- **GitHub**: [mobinmiah/asset-verse-client](https://github.com/mobinmiah/asset-verse-client)
-- **Tech**: React, Node.js, MongoDB, Stripe, Firebase Auth, JWT
-
-### 2. TravelEase
-Vehicle booking and trip management platform
-- **Live**: [travel-ease-vehicles.netlify.app](https://travel-ease-vehicles.netlify.app)
-- **GitHub**: [mobinmiah/travel-ease-client](https://github.com/mobinmiah/travel-ease-client)
-- **Tech**: React, Node.js, MongoDB, Express.js, Firebase, Tailwind CSS
-
-### 3. ZapShift
-Parcel and delivery management system
-- **Live**: [zap-shift-transportation.netlify.app](https://zap-shift-transportation.netlify.app)
-- **GitHub**: [mobinmiah/zap-shift-client](https://github.com/mobinmiah/zap-shift-client)
-- **Tech**: React, Node.js, MongoDB, Express.js, Firebase Auth, JWT
-
-## 👨‍💻 Author
-
-**Mobin Miah**
-- Portfolio: [mobinmiah.com](https://mobinmiah.com)
-- LinkedIn: [linkedin.com/in/mobin-miah](https://www.linkedin.com/in/mobin-miah)
-- GitHub: [github.com/mobinmiah](https://github.com/mobinmiah)
-- Repository: [github.com/mobinmiah/profolio](https://github.com/mobinmiah/profolio)
-- Email: mdmobinmiah1998@gmail.com
-- Phone: +8801878014535
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🙏 Acknowledgments
-
-- [React.js](https://reactjs.org/) - UI Library
-- [Vite](https://vitejs.dev/) - Build Tool
-- [Tailwind CSS](https://tailwindcss.com/) - CSS Framework
-- [Framer Motion](https://www.framer.com/motion/) - Animation Library
-- [GSAP](https://greensock.com/gsap/) - Animation Library
-- [Formspree](https://formspree.io/) - Form Handling
-- [shadcn/ui](https://ui.shadcn.com/) - UI Components
-- [Hostinger](https://www.hostinger.com/) - Production Hosting
-- [Netlify](https://www.netlify.com/) - Development Hosting
-
----
-
-⭐ **Star this repository if you found it helpful!**
-
-🔗 **Live Portfolio**: [https://mobinmiah.com](https://mobinmiah.com)
+🔗 **Live Portfolio**: [https://portfolio-ayubb.netlify.app](https://portfolio-ayubb.netlify.app)
