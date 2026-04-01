@@ -34,7 +34,7 @@ https://github.com/ayub660/portfolio1
 
 **Quick Share Links:**
 ```
-🌐 Portfolio: 
+🌐 Portfolio: https://portfolio-ayubb.netlify.app
 📁 Code: 
-👨‍💻 LinkedIn: 
+👨‍💻 LinkedIn: https://www.linkedin.com/in/shahriar-ayub
 ```
