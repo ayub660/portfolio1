@@ -1,4 +1,4 @@
-# Mobin Miah - MERN Stack Developer Portfolio
+# Shahriar ayub - MERN Stack Developer Portfolio
 
 > A modern, responsive portfolio website showcasing my skills and projects as a MERN stack developer.
 
@@ -35,7 +35,7 @@ Professional portfolio website built with React.js and Vite, featuring modern an
 
 ### Tools & Services
 - **Formspree** - Contact form handling
-- **Hostinger** - Production hosting (mobinmiah.com)
+- **Hostinger** - 
 - **Netlify** - Development and staging deployment
 - **Git & GitHub** - Version control
 - **VS Code** - IDE
